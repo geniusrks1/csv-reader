@@ -6,7 +6,7 @@ To install CSV_Upload, please follow these steps:
 
 Clone this repository using the following command:
 ```
-$ git clone https://github.com/agentgrey/CSV_Upload.git
+$ git clone https://github.com/geniusrks1/csv-reader
 ```
 Install the required dependencies using the following command:
 ```
